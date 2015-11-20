@@ -14,3 +14,7 @@ for handling different skeleton constructions, such as:
 * vector (array) operations
 * aliasing
 * indirect array accesses
+* false-positive
+
+The benchmark consists of several functions, each one concerning one of the parallel skeletons
+where a few obstacles or complex characteristics are incorporated in the skeleton implementation.
