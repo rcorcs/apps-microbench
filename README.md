@@ -40,7 +40,7 @@ The most common use of indirect array access
 is A[B[i]] where i is the loop index. Since the contents of
 array B are not known at compile time, the compiler can
 not make any assumptions about the accesses to array A and
-hence conservatively computes the data dependences on array A [govindarajan13][].
+hence conservatively computes the data dependences on array A [govindarajan13].
 
 
 ### References
